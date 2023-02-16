@@ -1,5 +1,5 @@
 {
-    "name": "2_1_analogValue_Demirturk",
+    "name": "2.1 Analog Value Program",
     "description": "",
     "dependencies": {
         "core": "*",
